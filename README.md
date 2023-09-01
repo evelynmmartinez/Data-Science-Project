@@ -8,6 +8,9 @@
 
 
 The accessibility of higher education is a matter of profound significance, catering to the aspirations of numerous individuals. 
+
 ![image](https://github.com/evelynmmartinez/Data-Science-Project/assets/136510004/6f60fcc0-e329-47b1-bba3-868a565a4103)
 
 This chart shows that the number of graduates in this study is higher than the other outcomes. How to make this better?
+
+![image](https://github.com/evelynmmartinez/Students-Success-in-higher-education/assets/136510004/261e9b61-3928-4c58-b070-12e120de74c6)

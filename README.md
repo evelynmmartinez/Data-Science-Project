@@ -11,6 +11,14 @@ The accessibility of higher education is a matter of profound significance, cate
 
 ![image](https://github.com/evelynmmartinez/Data-Science-Project/assets/136510004/6f60fcc0-e329-47b1-bba3-868a565a4103)
 
-This chart shows that the number of graduates in this study is higher than the other outcomes. How to make this better?
+# Modeling
 
-![image](https://github.com/evelynmmartinez/Students-Success-in-higher-education/assets/136510004/261e9b61-3928-4c58-b070-12e120de74c6)
+Four methods used: Decision tree,Logistic Regression, Random Forest and Gradient Boosting. 
+Below is a confusion matrix image after using Gradient Boosting:
+
+![image](https://github.com/evelynmmartinez/Students-Success-in-higher-education/assets/136510004/02c2450d-474a-42f6-80ee-3a9d3154ffd5)
+
+These are the metrics that made the Gradient Boosting model the best contender to use for modeling this data.:
+
+	Precision	Recall	F1 Score	Accuracy
+	0.846137	0.849307	0.843868	0.849307
